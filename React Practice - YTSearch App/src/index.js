@@ -8,8 +8,6 @@ import VideoDetail from "./components/video_detail";
 
 const API_KEY = "AIzaSyDLJtM9d_pA_YlUxWDq8zo12RuQrDgfw5M";
 
-
-
 // Create a new component. This component should produce some HTML
 class App extends Component {
 	constructor(props) {
