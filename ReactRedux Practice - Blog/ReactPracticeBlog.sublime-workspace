@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"compon",
+				"Component"
+			],
+			[
 				"city",
 				"cityData"
 			],
@@ -208,9 +212,29 @@
 	"buffers":
 	[
 		{
+			"file": "src/index.js",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 665,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/actions/index.js",
+			"settings":
+			{
+				"buffer_size": 306,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/posts_index.js",
+			"settings":
+			{
+				"buffer_size": 172,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -258,6 +282,13 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/B/Users/Bruce/Documents/GitHub/ReactPractice/ReactRedux Practice - Blog",
+		"/B/Users/Bruce/Documents/GitHub/ReactPractice/ReactRedux Practice - Blog/src",
+		"/B/Users/Bruce/Documents/GitHub/ReactPractice/ReactRedux Practice - Blog/src/actions",
+		"/B/Users/Bruce/Documents/GitHub/ReactPractice/ReactRedux Practice - Blog/src/components"
+	],
 	"file_history":
 	[
 		"/B/Users/Bruce/Documents/GitHub/ReactPractice/ReactRedux Practice - Weather App/src/components/app.js",
@@ -391,13 +422,14 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
 		"height": 110.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -405,6 +437,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"'",
 			"fetchWeather",
 			"call",
 			"this"
@@ -425,34 +458,91 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "src/index.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 665,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								514,
+								514
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/actions/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								306,
+								306
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/posts_index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
