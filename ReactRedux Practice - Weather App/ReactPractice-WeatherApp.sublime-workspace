@@ -207,6 +207,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/components/app.js",
+			"settings":
+			{
+				"buffer_size": 304,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/B/Users/Bruce/Documents/GitHub/ReactPractice/ReactRedux Practice - BookList App/src/containers/book-detail.js",
+			"settings":
+			{
+				"buffer_size": 580,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/B/Users/Bruce/Documents/GitHub/ReactPractice/ReactRedux Practice - BookList App/src/containers/book-list.js",
+			"settings":
+			{
+				"buffer_size": 1181,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -263,6 +287,8 @@
 	],
 	"file_history":
 	[
+		"/B/Users/Bruce/Documents/GitHub/ReactPractice/ReactRedux Practice - BookList App/ReduxSection.sublime-workspace",
+		"/B/Users/Bruce/Documents/GitHub/ReactPractice/ReactRedux Practice - BookList App/ReduxSection.sublime-project",
 		"/B/Users/Bruce/Documents/GitHub/ReactPractice/ReactRedux Practice - Weather App/src/components/app.js",
 		"/B/Users/Bruce/Documents/GitHub/ReactPractice/ReactRedux Practice - Weather App/src/components/chart.js",
 		"/B/Users/Bruce/Documents/GitHub/ReactPractice/ReactRedux Practice - Weather App/src/components/google_map.js",
@@ -388,9 +414,7 @@
 		"/B/Users/Bruce/Documents/GitHub/bwconner/bwconner/scss/media.css",
 		"/B/Users/Bruce/Documents/GitHub/bwconner/bwconner/scss/contact.css",
 		"/B/Users/Bruce/Documents/GitHub/bwconner/bwconner/scss/contact.scss",
-		"/B/Users/Bruce/Documents/GitHub/bwconner/bwconner/scss/index.css",
-		"/B/Users/Bruce/Documents/GitHub/bwconner/bwconner/scss/projects.css",
-		"/C/Users/Bruce/Desktop/websites/bruceconner/home.html"
+		"/B/Users/Bruce/Documents/GitHub/bwconner/bwconner/scss/index.css"
 	],
 	"find":
 	{
@@ -428,8 +452,95 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/components/app.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/B/Users/Bruce/Documents/GitHub/ReactPractice/ReactRedux Practice - BookList App/src/containers/book-detail.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 580,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/B/Users/Bruce/Documents/GitHub/ReactPractice/ReactRedux Practice - BookList App/src/containers/book-list.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
